@@ -29,3 +29,10 @@ node index.js
 cd ../client
 npm start
 ```
+
+To support file upload, download these dependencies
+
+```bash
+cd server
+npm install multer pdf-parse mammoth
+```
