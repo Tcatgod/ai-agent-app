@@ -3,6 +3,9 @@ node_modules/
 client/node_modules/
 server/node_modules/
 
+# Uploads
+server/uploads/
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
